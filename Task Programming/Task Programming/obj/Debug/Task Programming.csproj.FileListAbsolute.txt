@@ -1,0 +1,6 @@
+C:\curso\parallel Programming\Task Programming\Task Programming\bin\Debug\Task Programming.exe.config
+C:\curso\parallel Programming\Task Programming\Task Programming\bin\Debug\Task Programming.exe
+C:\curso\parallel Programming\Task Programming\Task Programming\bin\Debug\Task Programming.pdb
+C:\curso\parallel Programming\Task Programming\Task Programming\obj\Debug\Task Programming.csproj.CoreCompileInputs.cache
+C:\curso\parallel Programming\Task Programming\Task Programming\obj\Debug\Task Programming.exe
+C:\curso\parallel Programming\Task Programming\Task Programming\obj\Debug\Task Programming.pdb

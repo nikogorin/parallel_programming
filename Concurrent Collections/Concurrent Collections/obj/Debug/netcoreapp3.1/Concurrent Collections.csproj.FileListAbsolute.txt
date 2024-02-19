@@ -1,0 +1,14 @@
+C:\curso\parallel Programming\Concurrent Collections\Concurrent Collections\bin\Debug\netcoreapp3.1\Concurrent Collections.exe
+C:\curso\parallel Programming\Concurrent Collections\Concurrent Collections\bin\Debug\netcoreapp3.1\Concurrent Collections.deps.json
+C:\curso\parallel Programming\Concurrent Collections\Concurrent Collections\bin\Debug\netcoreapp3.1\Concurrent Collections.runtimeconfig.json
+C:\curso\parallel Programming\Concurrent Collections\Concurrent Collections\bin\Debug\netcoreapp3.1\Concurrent Collections.runtimeconfig.dev.json
+C:\curso\parallel Programming\Concurrent Collections\Concurrent Collections\bin\Debug\netcoreapp3.1\Concurrent Collections.dll
+C:\curso\parallel Programming\Concurrent Collections\Concurrent Collections\bin\Debug\netcoreapp3.1\Concurrent Collections.pdb
+C:\curso\parallel Programming\Concurrent Collections\Concurrent Collections\obj\Debug\netcoreapp3.1\Concurrent Collections.csproj.AssemblyReference.cache
+C:\curso\parallel Programming\Concurrent Collections\Concurrent Collections\obj\Debug\netcoreapp3.1\Concurrent Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso\parallel Programming\Concurrent Collections\Concurrent Collections\obj\Debug\netcoreapp3.1\Concurrent Collections.AssemblyInfoInputs.cache
+C:\curso\parallel Programming\Concurrent Collections\Concurrent Collections\obj\Debug\netcoreapp3.1\Concurrent Collections.AssemblyInfo.cs
+C:\curso\parallel Programming\Concurrent Collections\Concurrent Collections\obj\Debug\netcoreapp3.1\Concurrent Collections.csproj.CoreCompileInputs.cache
+C:\curso\parallel Programming\Concurrent Collections\Concurrent Collections\obj\Debug\netcoreapp3.1\Concurrent Collections.dll
+C:\curso\parallel Programming\Concurrent Collections\Concurrent Collections\obj\Debug\netcoreapp3.1\Concurrent Collections.pdb
+C:\curso\parallel Programming\Concurrent Collections\Concurrent Collections\obj\Debug\netcoreapp3.1\Concurrent Collections.genruntimeconfig.cache

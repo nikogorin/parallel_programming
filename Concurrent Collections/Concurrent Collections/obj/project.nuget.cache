@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+mseJCOBvAeCtoI8ysiU9ktirdzzAU+naXlOseTfnjbFgWzmA8O7qvDwSTNxDYdl8i8OMdhK3tHCiiuEJviAFA==",
+  "success": true,
+  "projectFilePath": "C:\\curso\\parallel Programming\\Concurrent Collections\\Concurrent Collections\\Concurrent Collections.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\npiccolini\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

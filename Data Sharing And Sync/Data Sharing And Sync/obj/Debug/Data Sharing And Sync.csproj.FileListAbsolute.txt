@@ -1,0 +1,6 @@
+C:\curso\parallel Programming\Data Sharing And Sync\Data Sharing And Sync\bin\Debug\Data Sharing And Sync.exe.config
+C:\curso\parallel Programming\Data Sharing And Sync\Data Sharing And Sync\bin\Debug\Data Sharing And Sync.exe
+C:\curso\parallel Programming\Data Sharing And Sync\Data Sharing And Sync\bin\Debug\Data Sharing And Sync.pdb
+C:\curso\parallel Programming\Data Sharing And Sync\Data Sharing And Sync\obj\Debug\Data Sharing And Sync.csproj.CoreCompileInputs.cache
+C:\curso\parallel Programming\Data Sharing And Sync\Data Sharing And Sync\obj\Debug\Data Sharing And Sync.exe
+C:\curso\parallel Programming\Data Sharing And Sync\Data Sharing And Sync\obj\Debug\Data Sharing And Sync.pdb
